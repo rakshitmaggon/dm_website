@@ -534,7 +534,7 @@ h1{
 	background-image: url('../img/b5.jpg');
 }
 #page-4-member-7 .page-4-member-img{
-	background-image: url('../img/b7.jpg');
+	background-image: url('../img/b1.jpg');
 }
 #page-4-member-8 .page-4-member-img{
 	background-image: url('../img/b10.jpg');
@@ -543,7 +543,7 @@ h1{
 	background-image: url('../img/b2.jpeg');
 }
 #page-4-member-10 .page-4-member-img{
-	background-image: url('../img/b1.jpg');
+	background-image: url('../img/b7.jpg');
 }
 #page-4-member-11 .page-4-member-img{
 	background-image: url('../img/b4.jpg');
@@ -807,4 +807,15 @@ h1{
 		margin-left: 18px;
 		margin-right: 18px;
 	}
+}
+
+
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: #1E2A4D;
+ 
+}
+::-webkit-scrollbar-thumb{
+    background-color: white;
+    border-radius: 10px;
 }
