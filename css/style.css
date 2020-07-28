@@ -68,7 +68,6 @@ a{
 	margin-left: -40px;
 	animation: load 3s linear infinite;
 }
-
 .dis{
 	height: 100%;
 	width: 100%;
@@ -222,7 +221,7 @@ h1{
 	display: inline-block;
 	font-size: 38pt;
 	letter-spacing: 2px;
-	color: rgba(0,0,0,0.45);
+	color: #1E2A4D;
 	width: 28%;
 	border-right: 4px solid rgba(0,0,0,0.25);
 	font-family: alata;
@@ -273,7 +272,7 @@ h1{
 	text-align: left;
 	left: 12%;
 	font-family: alata;
-	color: rgba(0,0,0,0.5);
+	color:#1E2A4D;
 	font-size: 29pt;
 	letter-spacing: 1px;
 	text-transform: uppercase;
