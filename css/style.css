@@ -533,7 +533,7 @@ h1{
 	background-image: url('../img/b5.jpg');
 }
 #page-4-member-7 .page-4-member-img{
-	background-image: url('../img/b1.jpg');
+	background-image: url('../img/b12.jpg');
 }
 #page-4-member-8 .page-4-member-img{
 	background-image: url('../img/b10.jpg');
@@ -572,7 +572,7 @@ h1{
 #page-5{
 	position: relative;
 	background-color: #fff;
-	padding-bottom: 25px;
+	padding-bottom: 5px;
 	padding-top: 25px;
 	z-index: 2;
 }
@@ -635,7 +635,7 @@ h1{
 #page-6{
 	position: relative;
 	padding-top: 65px;
-	background-color:  #1E2A4D;
+	background-color:  white;
 	text-align: center;
 	padding-bottom: 40px;
 }
@@ -647,7 +647,7 @@ h1{
 	margin-right: 30px;
 	opacity: 0.6;
 	background-color: transparent;
-	border-bottom: 4px solid white;
+	border-bottom: 4px solid #1E2A4D;
 	transition: border-bottom 0.2s;
 	padding-bottom: 10px;
 	cursor: pointer;
@@ -662,7 +662,7 @@ h1{
 	font-size: 12pt;
 	font-weight: 500;
 	font-family: Comfortaa;
-	color: white;
+	color: #1E2A4D;
 	line-height: 25px;
 	text-align: center;
 }
