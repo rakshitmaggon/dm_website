@@ -671,6 +671,94 @@ h1{
 	color:red;
 }
 
+.footer {
+    background-color:white;
+    padding: 60px;
+	font-size: 80%;
+	margin-top: 30px;
+}
+
+.footer-nav {
+    list-style: none;
+    float: center;
+}
+
+.social-links {
+    list-style: none;
+	float: center;
+	align-content: center;
+}
+
+.footer-nav li,
+.social-links li {
+    display: inline-block;
+	margin-right: 20px;
+	align-content: center;
+}
+
+.footer-nav li:last-child,
+.social-links li:last-child {
+	margin-right: 500;
+	
+}
+
+.footer-nav li a:link,
+.footer-nav li a:visited, 
+.social-links li a:link,
+.social-links li a:visited {
+    text-decoration: none;
+    border: 0;
+    color: #888;
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+}
+
+.footer-nav li a:hover,
+.footer-nav li a:active {
+    color: #ddd;
+}
+
+.social-links li a:link,
+.social-links li a:visited {
+	font-size: 170%;
+	align-items: center;
+}
+
+
+
+
+footer p {
+    color:black;
+    text-align: center;
+	margin-top: 50px;
+	background-clip: text;
+
+	
+}
+.fa-facebook{
+	color: #3b5998;
+}
+.fa-instagram{
+	color: #e84393;
+}
+.fa-youtube{
+	color: #e84118;
+}
+.fa-github{
+	color: #211f1f;
+}
+.fa-linkedin{
+	color: #0097e6;
+}.fa-twitter{
+	color: #00acee;
+}
+.fa-medium{
+	color:black;
+}
+
+
+
+
 
 @media only screen and (max-width: 900px) {
 
