@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="readme_assets/logo.png" alt="Logo" width="80" height="80">
+    <img style="background-color:#000" src="readme_assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Rakshit's README-Template</h3>
