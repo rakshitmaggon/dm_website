@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img style="background-color: #000" src="readme_assets/logo.png" alt="Logo" width="" height="80">
+    <img style="background-color:#000"src="readme_assets/logo.png" alt="Logo" width="" height="80">
   </a>
 
   <h3 align="center">Only Business Club of VIT </h3>
