@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="#">
+  <a style="background-color:#000" href="#">
     <img style="background-color:#000"src="readme_assets/logo.png" alt="Logo" width="" height="80">
   </a>
 
